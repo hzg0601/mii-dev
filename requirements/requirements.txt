@@ -1,0 +1,14 @@
+asyncio
+deepspeed>=0.12.4
+deepspeed-kernels
+Flask-RESTful
+grpcio
+grpcio-tools
+Pillow
+pydantic
+safetensors
+torch
+transformers
+ujson
+Werkzeug
+zmq
